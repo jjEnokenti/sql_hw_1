@@ -2,7 +2,7 @@
 
 ## Реализованы запросы:
 1. '/movie/<title>' - Поиск по названию
-2. '/movie/<int:year_start>to<int:year_stop>' - Поиск в промежутке годов
+2. '/movie/year_startTOyear_stop' - Поиск в промежутке годов
 3. '/rating/<rating>' - Поиск по возрастному рейтингу
 4. '/genre/<genre>' - Поиск по жанру
 
